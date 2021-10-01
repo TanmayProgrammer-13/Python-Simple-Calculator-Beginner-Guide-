@@ -1,1 +1,6 @@
-# Python-Simple-Calculator-Beginner-Guide-
+x= input("Enter a Number:")
+x = int(x)
+y = input("Enter Another Number:")
+y= int(y)
+sum = (x+y)
+print(sum)
